@@ -1,5 +1,6 @@
 import React from "react";
-// import assets from '../assets/vishal.jpg';
+import image from '../assets/vishal.jpg';
+// import image from '../assets/khushal.jpg';
 
 class UserProfileCardTask extends React.Component {
     constructor(props) {
@@ -13,7 +14,7 @@ class UserProfileCardTask extends React.Component {
                 <div class="card-container">
                     <div class="card">
                         <div class="card-header">
-                            {/* <img src={image} alt="Profile Image" class="profile-img" /> */}
+                            <img src={image} alt="Profile Image" class="profile-img" />
                                 <h2>{this.props.name}</h2>
                                 <p class="title">{this.props.tital}</p>
                         </div>

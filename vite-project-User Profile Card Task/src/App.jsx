@@ -5,7 +5,6 @@ import './App.css'
 import UserProfileCardTask from './Component/User Profile Card Task'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <div className="profile">
