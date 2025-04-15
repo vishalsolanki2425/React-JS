@@ -12,8 +12,8 @@ function App() {
       <UserProfileCardTask name="vishal solanki" tital="web develop" email="vishalsolanki@gmail.com" contact="9909295049" gender="male"/>
       <UserProfileCardTask name="khushal vaghasiya" tital="web develop" email="khushalvaghasiya@gmail.com" contact="9909295049" gender="male"/>
       <UserProfileCardTask name="yogesh radhod" tital="web develop" email="yogeshradhod@gmail.com" contact="9909295049" gender="male"/>
-      <UserProfileCardTask name="khushal vaghasiya" tital="web develop" email="khushalvaghasiya@gmail.com" contact="9909295049" gender="male"/>
       <UserProfileCardTask name="vishal solanki" tital="web develop" email="vishalsolanki@gmail.com" contact="9909295049" gender="male"/>
+      <UserProfileCardTask name="khushal vaghasiya" tital="web develop" email="khushalvaghasiya@gmail.com" contact="9909295049" gender="male"/>
       <UserProfileCardTask name="yogesh radhod" tital="web develop" email="yogeshradhod@gmail.com" contact="9909295049" gender="male"/>
     </div>
   )
